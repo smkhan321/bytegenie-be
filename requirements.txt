@@ -1,0 +1,7 @@
+pandas~=2.1.1
+requests~=2.31.0
+flask~=3.0.3
+mysql-connector-python~=9.0.0
+flask_restx
+flask_mysqldb
+sqlparse~=0.5.0
